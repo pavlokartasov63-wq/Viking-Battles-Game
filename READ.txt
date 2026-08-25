@@ -1,0 +1,3 @@
+First, run install.bat, then run install_modules.py as an administrator.
+Never attempt to alter the statistics; this will 100% result in a reset.
+To start game click on start.bat.
